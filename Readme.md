@@ -1,4 +1,4 @@
-# r30 challenges
+# r30challenge
 ![](https://i.imgur.com/PAaWJJp.png)
 
 - Press the red button to start this game
